@@ -1,6 +1,6 @@
 ---
 title: "Live News Feed"
-date: "2024-06-24"
+date: "2025-06-24"
 author: "Company News Team"
 tags: ["english", "news"]
 excerpt: "Our news feed now updates in real-time to keep you informed."

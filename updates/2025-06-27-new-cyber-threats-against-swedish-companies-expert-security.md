@@ -4,7 +4,7 @@ date: "2025-06-27"
 author: "WeBuildIT Security Team"
 tags: ["english"]
 excerpt: "By WeBuildIT Security Experts"
-slug: "new-cyber-threats-against-swedish-companies-expert-security"
+slug: "en-new-cyber-threats-against-swedish-companies-expert-security"
 ---
 ## Swedish Businesses Under Siege: Navigating the Evolving Cybersecurity Threat Landscape
 

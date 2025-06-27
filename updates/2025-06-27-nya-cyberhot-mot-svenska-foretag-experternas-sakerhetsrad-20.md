@@ -1,17 +1,11 @@
 ---
-title: Nya cyberhot mot svenska företag - Experternas säkerhetsråd 2025
+title: "Nya cyberhot mot svenska företag - Experternas säkerhetsråd 2025"
 date: '2025-06-27'
-author: WeBuildIT Security Team
-tags:
-  - svenska
-  - säkerhet
-  - cybersäkerhet
-  - nyheter
-  - '2025'
-excerpt: >-
-  **WeBuildIT varnar för ökade cyberattacker mot svenska företag.** De senaste
-  månaderna har vi sett en markant ökning av ...
-slug: nya-cyberhot-mot-svenska-foretag-experternas-sakerhetsrad-20
+author: "WeBuildIT Security Team"
+tags: ["swedish"]
+excerpt: "WeBuildIT varnar för ökade cyberattacker mot svenska företag. De senaste
+  månaderna har vi sett en markant ökning av ..."
+slug: "nya-cyberhot-mot-svenska-foretag-experternas-sakerhetsrad-20"
 ---
 ## Ökad Cyberkriminalitet: Svenska Företag i Skottlinjen
 

@@ -2,12 +2,7 @@
 title: "New cyber threats against Swedish companies - Expert security advice 2025"
 date: "2025-06-27"
 author: "WeBuildIT Security Team"
-tags:
-  - english
-  - security
-  - cybersecurity
-  - news
-  - '2025'
+tags: ["english"]
 excerpt: "By WeBuildIT Security Experts"
 slug: "new-cyber-threats-against-swedish-companies-expert-security"
 ---

@@ -1,15 +1,15 @@
 ---
-title: New cyber threats against Swedish companies - Expert security advice 2025
-date: '2025-06-27'
-author: WeBuildIT Security Team
+title: "New cyber threats against Swedish companies - Expert security advice 2025"
+date: "2025-06-27"
+author: "WeBuildIT Security Team"
 tags:
   - english
   - security
   - cybersecurity
   - news
   - '2025'
-excerpt: '**By WeBuildIT Security Experts**'
-slug: new-cyber-threats-against-swedish-companies-expert-security
+excerpt: "By WeBuildIT Security Experts"
+slug: "new-cyber-threats-against-swedish-companies-expert-security"
 ---
 ## Swedish Businesses Under Siege: Navigating the Evolving Cybersecurity Threat Landscape
 

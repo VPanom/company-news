@@ -3,7 +3,7 @@ title: Nya cyberhot mot svenska företag - Experternas säkerhetsråd 2025
 date: '2025-06-26'
 author: WeBuildIT Security Team
 tags:
-  - svenska
+  - swedish
   - säkerhet
   - cybersäkerhet
   - nyheter

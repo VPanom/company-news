@@ -6,10 +6,6 @@ tags: ["swedish"]
 excerpt: "WeBuildIT varnar för ökade cyberattacker mot svenska företag. De senaste månaderna har vi sett en markant ökning av ..."
 slug: "nya-cyberhot-mot-svenska-foretag-experternas-sakerhetsrad-20"
 ---
-  **WeBuildIT varnar för en kraftig ökning av sofistikerade cyberattacker mot
-  svenska företag.**  De senaste månaderna har...
-slug: nya-cyberhot-mot-svenska-foretag-experternas-sakerhetsrad-20
----
 ## Akutläge: Svenska företag i skottlinjen för avancerade cyberattacker
 
 **WeBuildIT varnar för en kraftig ökning av sofistikerade cyberattacker mot svenska företag.**  De senaste månaderna har vi sett en alarmerande trend av riktade attacker, utpressningsförsök (ransomware) och dataintrång, som drabbar företag i alla storlekar och branscher.  Ignorering av dessa risker kan leda till katastrofala konsekvenser – ekonomiska förluster, ryktesskador och rättsliga åtal.

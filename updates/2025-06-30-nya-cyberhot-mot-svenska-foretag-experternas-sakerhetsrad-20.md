@@ -1,6 +1,6 @@
 ---
 title: "Nya cyberhot mot svenska företag - Experternas säkerhetsråd 2025"
-date: '2025-06-27'
+date: '2025-06-30'
 author: "WeBuildIT Security Team"
 tags: ["swedish"]
 excerpt: "WeBuildIT varnar för ökade cyberattacker mot svenska företag. De senaste månaderna har vi sett en markant ökning av ..."

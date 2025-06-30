@@ -1,6 +1,6 @@
 ---
 title: "Live Nyhetsflöde"
-date: "2025-06-24"
+date: "2025-06-30"
 author: "Company News Team"
 tags: ["swedish", "news"]
 excerpt: "Vårt nyhetsflöde uppdateras nu i realtid för att hålla dig uppdaterad."

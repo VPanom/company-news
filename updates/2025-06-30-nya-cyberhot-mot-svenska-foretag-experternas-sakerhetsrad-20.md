@@ -4,7 +4,7 @@ date: "2025-06-30"
 author: "Company News Team"
 tags: ["swedish", "news"]
 excerpt: "Vårt nyhetsflöde uppdateras nu i realtid för att hålla dig uppdaterad."
-slug: "live-nyhetsflode"
+slug: "live-nyhetsflode2"
 ---
 
 # Live Nyhetsflöde

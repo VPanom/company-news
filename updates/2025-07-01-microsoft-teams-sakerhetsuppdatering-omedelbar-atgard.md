@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Teams säkerhetsuppdatering kräver omedelbar åtgärd"
-date: '2025-07-01'
+date: "2025-07-01"
 author: "WBI-Team co author Claude & Gemini"
 tags: ["swedish", "news", "m365", "web", "security", "infrastructure"]
 excerpt: "Microsoft rullar ut kritisk säkerhetsuppdatering för Teams som kräver omedelbar uppmärksamhet från svenska företag."

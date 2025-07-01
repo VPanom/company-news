@@ -1,6 +1,6 @@
 ---
 title: "Komplett guide: Säker remote work för svenska företag 2025"
-date: '2025-07-01'
+date: "2025-07-01"
 author: "WBI-Team co author Claude & Gemini"
 tags: ["swedish", "guide", "m365", "web", "security", "compliance", "infrastructure"]
 excerpt: "Steg-för-steg guide för att sätta upp säker remote work. VPN, säkerhet och produktivitetsverktyg för svenska företag."

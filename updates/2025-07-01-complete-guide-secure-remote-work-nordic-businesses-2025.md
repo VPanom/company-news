@@ -1,6 +1,6 @@
 ---
 title: "Complete guide: Secure remote work for Nordic businesses 2025"
-date: '2025-07-01'
+date: "2025-07-01"
 author: "WBI-Team co author Claude & Gemini"
 tags: ["english", "guide", "m365", "web", "security", "compliance", "infrastructure"]
 excerpt: "Step-by-step guide for setting up secure remote work. VPN, security protocols and productivity tools for Nordic companies."

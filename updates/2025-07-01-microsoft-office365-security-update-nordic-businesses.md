@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Office 365 security update affects Nordic businesses"
-date: '2025-07-01'
-author: "WBI-Team co author Claude & Gemini"
+date: "2025-07-01"
 tags: ["english", "news", "m365", "web", "security", "infrastructure"]
+author: "WBI-Team co author Claude & Gemini"
 excerpt: "Microsoft rolls out critical Office 365 security updates that require immediate attention from Nordic companies."
 slug: "microsoft-office365-security-update-nordic-businesses"
 ---

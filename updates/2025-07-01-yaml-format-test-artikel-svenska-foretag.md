@@ -4,7 +4,7 @@ date: '2025-07-01'
 author: "WBI-Team co author Claude & Gemini"
 tags: ["swedish", "news", "m365", "web", "security"]
 excerpt: "Test av YAML format som ska fungera utan fel i GitHub parsing."
-slug: "yaml-format-test-artikel-for-svenska-foretag"
+slug: "yaml-format-test-artikel-svenska-foretag"
 ---
 # YAML format test artikel
 

@@ -1,12 +1,10 @@
 ---
-title: '"GDPR-uppdateringar 2025: Nya krav för svenska företag"'
-date: '"2025-07-01"'
-author: '"WeBuildIT Legal Team"'
-tags: '["swedish", "news", "gdpr", "compliance"]'
-excerpt: >-
-  "EU inför nya GDPR-krav från 2025 som påverkar svenska företag. Läs om vad som
-  ändras och hur ni förbereder er."
-slug: '"gdpr-uppdateringar-2025-nya-krav-svenska-foretag"'
+title: "GDPR-uppdateringar 2025: Nya krav för svenska företag"
+date: "2025-07-01"
+author: "WeBuildIT Legal Team"
+tags: ["swedish", "news", "gdpr", "compliance"]
+excerpt: "EU inför nya GDPR-krav från 2025 som påverkar svenska företag. Läs om vad som ändras och hur ni förbereder er."
+slug: "gdpr-uppdateringar-2025-nya-krav-svenska-foretag"
 ---
 # GDPR-uppdateringar 2025: Nya krav för svenska företag
 

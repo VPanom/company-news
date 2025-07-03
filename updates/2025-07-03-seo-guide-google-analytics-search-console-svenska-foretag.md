@@ -1,5 +1,5 @@
 ---
-title: "🚀 SEO-guide: Google Analytics och Search Console för svenska företag"
+title: " SEO-guide: Google Analytics och Search Console för svenska företag"
 date: '2025-07-03'
 author: "WBI co claude & gemini"
 tags: ["swedish", "news", "web", "security", "infrastructure"]
@@ -8,10 +8,10 @@ slug: "seo-guide-google-analytics-search-console-svenska-foretag"
 ---
 # SEO-guide: Google Analytics och Search Console för svenska företag
 
-## 🎯 Introduktion
+## Introduktion
 Google dominerar svenska sökningar med 95% marknadsandel. För svenska företag är det avgörande att förstå Google Analytics och Search Console för SEO-framgång.
 
-## 📊 Google Analytics - Setup för svenska företag
+## Google Analytics - Setup för svenska företag
 
 ### 1. Grundläggande konfiguration
 - **Tidszon:** Europe/Stockholm  
@@ -26,7 +26,7 @@ Google dominerar svenska sökningar med 95% marknadsandel. För svenska företag
 - **Page Speed Insights:** Behavior > Site Speed
 - **Core Web Vitals:** Experience > Web Vitals
 
-## 🔍 Google Search Console - Din SEO-verktygslåda
+## Google Search Console - Din SEO-verktygslåda
 
 ### 1. Setup och verifiering
 - Lägg till property: https://www.dittforetag.se
@@ -45,23 +45,23 @@ Google dominerar svenska sökningar med 95% marknadsandel. För svenska företag
 - **Mobile Usability:** Säkerställ mobile-friendly design
 - **URL Inspection:** Testa individuella sidor
 
-## 🏗️ WeBuildIT's robusta SEO-grund
+## WeBuildIT's robusta SEO-grund
 
 ### Varför rätt websida-grund är avgörande för SEO
 
-**⚡ Performance Foundation:**
+** Performance Foundation:**
 - Lighthouse Score 95+ på alla metrics
 - Server Response Time < 200ms (svenska servrar)
 - Automatisk bildoptimering (WebP/AVIF)
 - Multi-layer caching för svenska användare
 
-**🔧 Technical SEO Setup:**
+** Technical SEO Setup:**
 - Clean URL-struktur (SEO-friendly permalinks)
 - Automatiska XML sitemaps
 - Optimerad robots.txt för svensk content
 - SSL/HTTPS säkra anslutningar standard
 
-**📱 Mobile Optimization:**
+** Mobile Optimization:**
 - Progressive Web App (PWA) kapacitet
 - Offline funktionalitet för viktig content
 - Snabb mobile rendering < 1.5 sekunder
@@ -73,9 +73,9 @@ Google dominerar svenska sökningar med 95% marknadsandel. För svenska företag
 - **Swedish structured data** (Organization, LocalBusiness)
 - **Local SEO** för svenska städer
 
-## 🎯 Månadsvis SEO-checklista för svenska företag
+## Månadsvis SEO-checklista för svenska företag
 
-**📅 Månadsvisa uppgifter:**
+** Månadsvisa uppgifter:**
 - [ ] Granska organic traffic trends (senaste månaden)
 - [ ] Analysera top performing content
 - [ ] Identifiera SEO opportunities för svenska sökningar
@@ -104,7 +104,7 @@ Google's 2025 algoritm prioriterar:
 - Konverterar besökare till kunder
 - Skalas med ditt företags tillväxt
 
-## 💼 Kontakta WeBuildIT för SEO-framgång
+## Kontakta WeBuildIT för SEO-framgång
 
 Behöver du en SEO-optimerad webbsida som inte bara ser bra ut, utan också presterar exceptionellt i svenska sökresultat?
 
@@ -114,4 +114,4 @@ Behöver du en SEO-optimerad webbsida som inte bara ser bra ut, utan också pres
 Vi bygger inte bara webbsidor - vi bygger SEO-maskiner som driver tillväxt för svenska företag.
 
 ---
-*Denna guide uppdaterades senast: Juli 2025  < /dev/null |  WeBuildIT SEO Expert Team*
+*Denna guide uppdaterades senast: Juli 2025 |  WeBuildIT SEO Expert Team*

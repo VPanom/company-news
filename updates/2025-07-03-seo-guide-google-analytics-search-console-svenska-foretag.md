@@ -1,7 +1,7 @@
 ---
 title: "🚀 SEO-guide: Google Analytics och Search Console för svenska företag"
 date: '2025-07-03'
-author: "WeBuildIT SEO Expert Team"
+author: "WBI co claude & gemini"
 tags: ["swedish", "news", "web", "security", "infrastructure"]
 excerpt: "Komplett guide för att använda Google Analytics och Search Console professionellt, plus varför rätt websida-grund är avgörande för SEO-framgång."
 slug: "seo-guide-google-analytics-search-console-svenska-foretag"

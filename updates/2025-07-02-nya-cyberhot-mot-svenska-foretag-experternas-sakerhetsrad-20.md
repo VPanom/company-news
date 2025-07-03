@@ -1,7 +1,7 @@
 ---
 title: "Nya cyberhot mot svenska företag - Experternas säkerhetsråd 2025"
 date: '2025-07-02'
-author: "WeBuildIT Security Team"
+author: "WBI co claude & gemini"
 tags: ["swedish", "news", "web", "security", "compliance"]
 excerpt: "**WeBuildIT varnar för en kraftig ökning av sofistikerade cyberattacker mot svenska företag.**  De senaste månaderna har..."
 slug: "nya-cyberhot-mot-svenska-foretag-experternas-sakerhetsrad-20"

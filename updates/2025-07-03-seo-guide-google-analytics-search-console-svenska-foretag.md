@@ -83,7 +83,7 @@ Google dominerar svenska sökningar med 95% marknadsandel. För svenska företag
 - [ ] Uppdatera outdated content
 - [ ] Kontrollera tekniska SEO-issues i Search Console
 
-## 🚀 WeBuildIT - SEO-optimerade webbsidor från grunden
+## WeBuildIT - SEO-optimerade webbsidor från grunden
 
 ### Våra SEO-fördelar för svenska företag
 - **Teknisk excellens:** 99.9% uptime på svenska servrar

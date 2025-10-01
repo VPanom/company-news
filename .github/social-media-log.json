@@ -24,5 +24,16 @@
       "news"
     ],
     "socialMedia": {}
+  },
+  {
+    "timestamp": "2025-10-01T09:01:59.540Z",
+    "filename": "2025-09-30-avancerad-guide-microsoft-365-migrering-svenska-foretag.md",
+    "title": "Avancerad guide: Microsoft 365 migrering för svenska företag",
+    "type": "practical_guide",
+    "tags": [
+      "swedish",
+      "guide"
+    ],
+    "socialMedia": {}
   }
 ]
